@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "ai-support",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "4e677f54-3db3-44a3-b7df-863289947999",
+      "database_name": "doc-dataset"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
